@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+
+background-color: #ccc
+
+}
+
+img{
+    margin: auto;
+    width: 90%; /* or any custom size */
+        object-fit: contain;
+    border-style:solid;
+    border-width: 2px;
+    border-color: #333333 ;
+    margin: 4px;
+   
+}
+
+div{
+    width: 30%;
+    margin: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #BBB ;
+    float: left;
+    font-size: 10px;
+
+    z-index: -1;
+
+    background-color: #FFF;
+    padding:5px;
+}
+
